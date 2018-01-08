@@ -1,0 +1,51 @@
+#tabs {
+    display: inline-block;
+    background-color: #22A867;
+}
+#title {
+    background-color: #22A867;
+    font-family:Ranga;
+    font-size:24px;
+    font-weight:bold;
+    color:white;
+}
+span[goto] {
+    background-color:#73F5B6;
+    padding: 3px 20px;
+    float:left;
+    text-align: center;
+    color:#364e3d;
+    font-family: 'Fjalla One';
+}
+#title img {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#title span:first-of-type{
+    float:right;
+    margin-top:50px;
+}
+.page{
+    width:100%;
+    display:inline-block;
+}
+#game {
+    background-color:gainsboro;
+}
+#doc {
+    background-color: azure;
+}
+#overview {
+    background-color: burlywood;
+}
+#power {
+    position:absolute;
+    top:35px;
+}
+#clue {
+    font-family:Roboto;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
